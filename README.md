@@ -16,4 +16,4 @@ Library to  partition list in Java
 
 ### JAR
 
-[adneom-lib-1.0.jar](adneom-lib-1.0.0.jar)
+[adneom-lib-1.0.jar](adneom-lib-1.0.jar)
